@@ -1,0 +1,18 @@
+40 mil traces = 4 Amps
+
+3 pin fan pinout
+1. GND
+2. 12V
+3. Sense
+
+4 pin power
+1. 12V (yellow)
+2. Gnd (black)
+3. Gnd (black)
+4. 5V (red)
+
+3 pin fan connector
+22-05-7038-03
+
+4 pin molex power connector
+9090-4R
